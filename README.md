@@ -6,3 +6,14 @@ I love his videos :D
 https://youtube.com/@rambley-k4z
 https://www.youtube.com/c/OddTinkering
 and sub to both of these. MOSTLY sub to OddTinkering. :D
+
+
+## Dependencies
+
+This script requires `zenity` to be installed for the GUI dialogs to work.
+
+You can install `zenity` on Debian/Ubuntu-based systems using:
+"sudo dnf install zenity" <-- for redhat
+"sudo apt install zenity" <-- for debian
+"idk how WSL whoud work for a install command" <-- for WSL? (windows)
+and zenity might be buggy on this BEST if file right clciked click OPEN then click open in terminal then Y for yes and N for                                                                                                                             .no
